@@ -17,3 +17,5 @@ V8 reads the code and runs it
 Engine breaks the code into tockens to id their meaning. these tokens are transformed into ATS abstract synthanx tree
 we pass the code that is we are trying to figure out the flow.
 
+Once ATS is complete, the code moves through interpreter so the machine understand what it needs to do
+
